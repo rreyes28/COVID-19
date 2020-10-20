@@ -1,3 +1,4 @@
+#analyzed data gathered from NYTimes COVID Data
 getwd()
 setwd("D:/Research/2020_COVID19_project/COVID-CoDE-Lab/")
 
