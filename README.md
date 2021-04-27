@@ -23,6 +23,7 @@ COVID cases v. deaths by state
 COVID cases v. deaths by counties (select different counties throughout the U.S. with at least 3-4 counties for comparison)
 
 Something of your choosing!
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Example plot (BA_COVIDCases_0720.png) is the resulting plot of the COVID Cases by County ggplot code (Lines 40-54)
