@@ -9,6 +9,7 @@ The examples provided allowed for the students to practice subsetting, creating 
 
 Data was provided by the NY Times: https://github.com/nytimes/covid-19-data
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **The following instructions were provided to SCIP participants:**
 
 COVID Data (provided by NY Times) - This data set covers the data provided and gathered by the New York Times regarding COVID cases and deaths. They are categorized by the United States, U.S. Counties, and U.S. States.
@@ -22,4 +23,6 @@ COVID cases v. deaths by state
 COVID cases v. deaths by counties (select different counties throughout the U.S. with at least 3-4 counties for comparison)
 
 Something of your choosing!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Example plot (BA_COVIDCases_0720.png) is the resulting plot of the COVID Cases by County ggplot code (Lines 40-54)
